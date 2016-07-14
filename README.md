@@ -1,3 +1,6 @@
+OS: Mac OS X EI Capitan version 10.11.5
+Hosted JDK: Oracle JDK 1.7.0_4
+
 # Some build issues
 
 - -Werror
