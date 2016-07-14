@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.test.package-info}}{excerpt}
+{toc}
+Utility classes that comprise the testing framework.
+----
+Automatically generated from {{com.sun.max.test.package-info}}

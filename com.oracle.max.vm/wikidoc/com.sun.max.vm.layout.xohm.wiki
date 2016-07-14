@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.layout.xohm.package-info}}{excerpt}
+{toc}
+This package implements an eXtended Origin-Header-Mixed (OHM) object layout. The layout is an extension of [{{OhmLayoutScheme}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.vm/src/com/sun/max/vm/layout/ohm/OhmLayoutScheme.java] with an extra word for use in arbitrary ways.
+----
+Automatically generated from {{com.sun.max.vm.layout.xohm.package-info}}

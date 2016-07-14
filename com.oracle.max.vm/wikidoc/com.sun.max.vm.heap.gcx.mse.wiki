@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.gcx.mse.package-info}}{excerpt}
+{toc}
+Heap Scheme implementing a region-based mark-sweep collector.
+----
+Automatically generated from {{com.sun.max.vm.heap.gcx.mse.package-info}}

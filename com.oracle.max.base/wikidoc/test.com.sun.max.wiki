@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{test.com.sun.max.package-info}}{excerpt}
+{toc}
+JUnit tests for Sun Labs' Maxine project software.
+----
+Automatically generated from {{test.com.sun.max.package-info}}

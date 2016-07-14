@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.gcx.gen.mse.package-info}}{excerpt}
+{toc}
+Heap Scheme implementing a region-based generational collector, with a mark-sweep old generation and an non-aging nursery.
+----
+Automatically generated from {{com.sun.max.vm.heap.gcx.gen.mse.package-info}}

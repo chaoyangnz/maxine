@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_gen"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.base"/>
+	<classpathentry exported="true" kind="lib" path="/Library/Java/JavaVirtualMachines/1.8.0.jdk/Contents/Home/lib/tools.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.cri"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.criutils"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.asm"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.vm"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.asmdis"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.hcfdis"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.max.vm.ext.maxri"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.meta"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.code"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.amd64"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.runtime"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.graph"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.debug"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.api.replacements"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.nodes"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.options"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.phases"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.phases.common"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.virtual"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.loop"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.alloc"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.asm"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.lir"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.compiler"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.asm.amd64"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.lir.amd64"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.compiler.amd64"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.bytecode"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.java"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.java.decompiler"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.printer"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.word"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.replacements"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/com.oracle.graal.replacements.amd64"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

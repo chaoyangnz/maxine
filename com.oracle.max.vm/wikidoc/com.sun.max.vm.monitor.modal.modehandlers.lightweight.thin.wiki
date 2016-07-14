@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.monitor.modal.modehandlers.lightweight.thin.package-info}}{excerpt}
+{toc}
+Thin locking mode handler for ModalMonitorScheme.
+----
+Automatically generated from {{com.sun.max.vm.monitor.modal.modehandlers.lightweight.thin.package-info}}

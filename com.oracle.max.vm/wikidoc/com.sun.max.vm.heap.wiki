@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.package-info}}{excerpt}
+{toc}
+Object heap management, including garbage collection.
+----
+Automatically generated from {{com.sun.max.vm.heap.package-info}}

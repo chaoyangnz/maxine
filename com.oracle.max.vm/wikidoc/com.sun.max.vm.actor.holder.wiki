@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.actor.holder.package-info}}{excerpt}
+{toc}
+Internal representations of Java "classes": tuple classes, interfaces, primitive classes, array classes, etc.
+----
+Automatically generated from {{com.sun.max.vm.actor.holder.package-info}}

@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.gui.package-info}}{excerpt}
+{toc}
+GUI utilities.
+----
+Automatically generated from {{com.sun.max.gui.package-info}}

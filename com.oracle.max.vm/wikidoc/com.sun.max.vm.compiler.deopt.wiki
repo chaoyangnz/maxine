@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.compiler.deopt.package-info}}{excerpt}
+{toc}
+
+----
+Automatically generated from {{com.sun.max.vm.compiler.deopt.package-info}}

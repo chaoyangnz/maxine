@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.monitor.modal.package-info}}{excerpt}
+{toc}
+Modal monitor schemes and handlers.
+----
+Automatically generated from {{com.sun.max.vm.monitor.modal.package-info}}

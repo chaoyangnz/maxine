@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.run.java.package-info}}{excerpt}
+{toc}
+The Java run scheme package that initializes the virtual machine and JDK, loads a user-specified main class, and invokes its main method. This class is meant to provide a command-line compatible replacement for the "java" command.
+----
+Automatically generated from {{com.sun.max.vm.run.java.package-info}}

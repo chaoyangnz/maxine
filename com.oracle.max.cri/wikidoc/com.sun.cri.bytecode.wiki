@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.cri.bytecode.package-info}}{excerpt}
+{toc}
+A collection of classes that support the processing of bytecodes. The majority are merely utility classes that simplify and reduce errors during bytecode processing.
+----
+Automatically generated from {{com.sun.cri.bytecode.package-info}}

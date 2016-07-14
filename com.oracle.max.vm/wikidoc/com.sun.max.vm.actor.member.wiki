@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.actor.member.package-info}}{excerpt}
+{toc}
+Internal representations of class/interface members, i.e. fields and methods
+----
+Automatically generated from {{com.sun.max.vm.actor.member.package-info}}

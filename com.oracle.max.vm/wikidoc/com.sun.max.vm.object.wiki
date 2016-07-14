@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.object.package-info}}{excerpt}
+{toc}
+This package provides a simplifying API (a facade) over the object layout and reference mechanisms that allow reading and writing fields, array elements, and hybrids using object references and offsets.
+----
+Automatically generated from {{com.sun.max.vm.object.package-info}}

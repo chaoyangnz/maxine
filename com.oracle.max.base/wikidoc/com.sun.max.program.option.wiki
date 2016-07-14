@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.program.option.package-info}}{excerpt}
+{toc}
+Command line option parsing and side effect management.
+----
+Automatically generated from {{com.sun.max.program.option.package-info}}

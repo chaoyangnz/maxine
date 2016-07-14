@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.sequential.gen.semiSpace.package-info}}{excerpt}
+{toc}
+A two-generations generational collector. The tenured space is a semi-space collector. The nursery is a copying collector with a small survivor space and a simple aging mechanism that promote objects that survive one 2 collections. WORK-IN PROGRESS. Currently the nursery doesn't age object, i.e., object that survive a collection are evacuated to the old generation right away, leaving the young generation always empty after a GC.
+----
+Automatically generated from {{com.sun.max.vm.heap.sequential.gen.semiSpace.package-info}}

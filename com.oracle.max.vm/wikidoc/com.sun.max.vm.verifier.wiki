@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.verifier.package-info}}{excerpt}
+{toc}
+Byte code verification, stack map generation and JSR/RET subroutine inlining..
+----
+Automatically generated from {{com.sun.max.vm.verifier.package-info}}

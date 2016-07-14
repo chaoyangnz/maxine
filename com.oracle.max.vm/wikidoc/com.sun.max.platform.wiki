@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.platform.package-info}}{excerpt}
+{toc}
+Information about platform attributes relevant to running our VM on them.
+----
+Automatically generated from {{com.sun.max.platform.package-info}}

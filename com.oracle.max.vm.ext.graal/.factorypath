@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorypath>
+	<factorypathentry enabled="true" id="org.eclipse.jst.ws.annotations.core" kind="PLUGIN" runInBatchMode="false"/>
+	<factorypathentry enabled="true" id="/com.oracle.graal.options/com.oracle.graal.options.jar" kind="WKSPJAR" runInBatchMode="false"/>
+</factorypath>

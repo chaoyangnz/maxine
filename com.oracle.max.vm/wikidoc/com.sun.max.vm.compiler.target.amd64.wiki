@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.compiler.target.amd64.package-info}}{excerpt}
+{toc}
+Representations of AMD64 target machine code and associated objects.
+----
+Automatically generated from {{com.sun.max.vm.compiler.target.amd64.package-info}}

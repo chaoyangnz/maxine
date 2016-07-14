@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{test.com.sun.max.program.option.package-info}}{excerpt}
+{toc}
+
+----
+Automatically generated from {{test.com.sun.max.program.option.package-info}}

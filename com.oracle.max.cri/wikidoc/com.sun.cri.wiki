@@ -1,0 +1,14 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.cri.package-info}}{excerpt}
+{toc}
+A virtual machine compiler-runtime interface (CRI). 
+Specifically, this package defines an interface between the compiler and the runtime system of a virtual machine for the instruction set defined in [{{Bytecodes}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/bytecode/Bytecodes.java]. The interface has three components:  
+# the {{compiler-provided interface}} that must be used by the runtime. 
+# the {{runtime-provided interface}} that must be used by the compiler. 
+# the {{XIR interface}} for translating object operations. 
+
+ The interface is independent of any particular compiler or runtime implementation. 
+
+
+For more details see [Improving Compiler-Runtime Separation with XIR|http://labs.oracle.com/projects/maxine/publications/vee2010.pdf].
+----
+Automatically generated from {{com.sun.cri.package-info}}

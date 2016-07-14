@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.layout.hosted.package-info}}{excerpt}
+{toc}
+A mockup layout that redirects accesses to host VM objects. This is used for unit testing before bootstrapping.
+----
+Automatically generated from {{com.sun.max.vm.layout.hosted.package-info}}

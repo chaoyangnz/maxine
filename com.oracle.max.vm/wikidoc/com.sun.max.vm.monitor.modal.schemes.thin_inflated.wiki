@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.monitor.modal.schemes.thin_inflated.package-info}}{excerpt}
+{toc}
+A modal monitor scheme that transitions between thin locks and inflated native monitors.
+----
+Automatically generated from {{com.sun.max.vm.monitor.modal.schemes.thin_inflated.package-info}}

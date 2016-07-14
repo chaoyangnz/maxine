@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.instrument.package-info}}{excerpt}
+{toc}
+Support classes for java.lang.instrument.
+----
+Automatically generated from {{com.sun.max.vm.instrument.package-info}}

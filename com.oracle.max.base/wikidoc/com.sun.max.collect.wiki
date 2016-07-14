@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.collect.package-info}}{excerpt}
+{toc}
+More conservative collection classes than in java.util: Instead of relying on dynamic checks, we make more use of static interfaces to narrow down the available set of operations  Also, we are much more "stingy" wrt. offering functionality.
+----
+Automatically generated from {{com.sun.max.collect.package-info}}

@@ -1,0 +1,17 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.cri.ci.package-info}}{excerpt}
+{toc}
+The compiler-provided part of the bi-directional interface between the compiler and the runtime system of a virtual machine for the instruction set defined in [{{Bytecodes}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/bytecode/Bytecodes.java].
+ The target hardware architecture is represented by [{{CiArchitecture}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiArchitecture.java] and the specific target machine environment for a compiler instance is represented by [{{CiTarget}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiTarget.java]. 
+A {{CiResult}} encapsulates [compilation statistics|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiStatistics.java], possible [error state|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiBailout.java] and the [compiled code and metadata|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiTargetMethod.java]. [{{CiCodePos}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiCodePos.java] and [{{CiDebugInfo}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiDebugInfo.java] provide detailed information to the runtime to support debugging and deoptimization of the compiled code. 
+
+
+The compiler manipulates [{{CiValue}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiValue.java] instances that have a [{{CiKind}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiKind.java], and are immutable. A concrete [{{value}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiValue.java] is one of the following subclasses:  
+* [{{CiConstant}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiConstant.java]: a constant value. 
+* [{{CiRegisterValue}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiRegisterValue.java]: a value stored in a [target machine register|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiRegister.java]. 
+* [{{CiStackSlot}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiStackSlot.java]: a spill slot or an outgoing stack-based argument in a method's frame. 
+* [{{CiAddress}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiAddress.java]: an address in target machine memory. 
+* [{{CiVariable}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ci/CiVariable.java]: a value (cf. virtual register) that is yet to be bound to a target machine location (physical register or memory address).
+
+
+----
+Automatically generated from {{com.sun.cri.ci.package-info}}

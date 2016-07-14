@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.gcx.package-info}}{excerpt}
+{toc}
+Umbrella for building blocks to implement HeapScheme.
+----
+Automatically generated from {{com.sun.max.vm.heap.gcx.package-info}}

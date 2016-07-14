@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.program.option.gui.package-info}}{excerpt}
+{toc}
+GUI for getting command line options.
+----
+Automatically generated from {{com.sun.max.program.option.gui.package-info}}

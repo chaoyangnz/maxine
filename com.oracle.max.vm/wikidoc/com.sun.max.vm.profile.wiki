@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.profile.package-info}}{excerpt}
+{toc}
+This package contains utility classes for profiling code, such as counters, alarms, etc.
+----
+Automatically generated from {{com.sun.max.vm.profile.package-info}}

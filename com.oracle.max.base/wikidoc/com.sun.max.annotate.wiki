@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.annotate.package-info}}{excerpt}
+{toc}
+Annotations used throughout the Maxine project.
+----
+Automatically generated from {{com.sun.max.annotate.package-info}}

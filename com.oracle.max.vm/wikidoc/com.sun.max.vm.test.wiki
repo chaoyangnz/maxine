@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.test.package-info}}{excerpt}
+{toc}
+Classes that are included in the binary image for testing purposes.
+----
+Automatically generated from {{com.sun.max.vm.test.package-info}}

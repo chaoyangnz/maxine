@@ -1,0 +1,9 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.ti.package-info}}{excerpt}
+{toc}
+
+h1. Generic tool support
+ 
+
+The purpose of this interface is to decouple the VM implementation from any specific tooling interface, such as [JVMTI|http://docs.oracle.com/javase/6/docs/platform/jvmti/jvmti.html], and allow multiple tooling interfaces to be implemented without modifying the VM.
+----
+Automatically generated from {{com.sun.max.vm.ti.package-info}}

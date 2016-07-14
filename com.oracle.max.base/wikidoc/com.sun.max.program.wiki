@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.program.package-info}}{excerpt}
+{toc}
+Utilities for any kind of Java program.
+----
+Automatically generated from {{com.sun.max.program.package-info}}

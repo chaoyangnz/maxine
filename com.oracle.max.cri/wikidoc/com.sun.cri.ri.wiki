@@ -1,0 +1,11 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.cri.ri.package-info}}{excerpt}
+{toc}
+The runtime-provided part of the bi-directional interface between the compiler and the runtime system of a virtual machine for the instruction set defined in [{{Bytecodes}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/bytecode/Bytecodes.java]. 
+Unlike the {{compiler-provided interface}}, the runtime-provided interface is specified largely using interfaces, that must be implemented by classes provided by a specific runtime implementation. 
+
+ [{{RiRuntime}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiRuntime.java] encapsulates the main functionality of the runtime for the compiler. 
+
+
+Types (i.e., primitives, classes and interfaces}, fields and methods are represented by [{{RiType}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiType.java], [{{RiField}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiField.java] and [{{RiMethod}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiMethod.java], respectively, with additional support from [{{RiSignature}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiSignature.java] and [{{RiExceptionHandler}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiExceptionHandler.java]. Access to the runtime constant pool is through [{{RiConstantPool}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/ri/RiConstantPool.java].
+----
+Automatically generated from {{com.sun.cri.ri.package-info}}

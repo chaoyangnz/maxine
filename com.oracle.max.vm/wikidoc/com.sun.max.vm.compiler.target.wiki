@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.compiler.target.package-info}}{excerpt}
+{toc}
+Representations of target machine code and associated objects.  A "target method" is a heap object aggregating all the parts and pieces constituting an executable binary of a Java method. It is reachable via the corresponding class method actor's method dock.  Each target method has references to co-located objects with fixed addresses in a code region. These objects contain: machine code, literals, auxiliary exception handling data and auxiliary trampoline data. The code region allocation unit (cell) containing these objects is called a "target bundle".
+----
+Automatically generated from {{com.sun.max.vm.compiler.target.package-info}}

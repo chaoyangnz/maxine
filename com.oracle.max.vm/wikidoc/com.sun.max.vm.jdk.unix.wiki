@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.jdk.unix.package-info}}{excerpt}
+{toc}
+This package provides substitutions for JDK classes that use UNIX-specific implementations of Java services.
+----
+Automatically generated from {{com.sun.max.vm.jdk.unix.package-info}}

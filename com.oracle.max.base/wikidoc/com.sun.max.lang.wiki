@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.lang.package-info}}{excerpt}
+{toc}
+Supplementing java.lang.
+----
+Automatically generated from {{com.sun.max.lang.package-info}}

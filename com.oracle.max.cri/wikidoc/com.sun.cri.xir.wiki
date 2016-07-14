@@ -1,0 +1,9 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.cri.xir.package-info}}{excerpt}
+{toc}
+XIR defines a domain specific instruction set for expressing the lowering of bytecode operations. The details of the lowering operations are entirely encapsulated in the runtime and are provided to the compiler on request using [{{XIR snippets}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/XirSnippet.java]. A snippet is a combination of a [{{template}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/XirTemplate.java], which is a sequence of [{{XIR instructions}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/CiXirAssembler/XirInstruction.java] that has unbound [{{parameters}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/CiXirAssembler/XirParameter.java], and site-specific [{{arguments}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/XirArgument.java] that are bound to the parameters. 
+The runtime is responsible for creating the [{{templates}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/XirTemplate.java] and provides these to the compiler as part of the initialization process. 
+
+
+The XIR instruction set has no textual representation, and therefore no parser. An assembly is represented by an instance of [{{CiXirAssembler}}|http://kenai.com/hg/maxine~maxine/file/tip/com.oracle.max.cri/src/com/sun/cri/xir/CiXirAssembler.java], which provides methods to create instructions and operands.
+----
+Automatically generated from {{com.sun.cri.xir.package-info}}

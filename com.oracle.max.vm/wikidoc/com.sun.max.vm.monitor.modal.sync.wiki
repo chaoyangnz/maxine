@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.monitor.modal.sync.package-info}}{excerpt}
+{toc}
+A collection of synchronization primitives as Java objects.
+----
+Automatically generated from {{com.sun.max.vm.monitor.modal.sync.package-info}}

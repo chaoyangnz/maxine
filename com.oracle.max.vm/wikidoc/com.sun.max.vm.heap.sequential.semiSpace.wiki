@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.vm.heap.sequential.semiSpace.package-info}}{excerpt}
+{toc}
+A simple semi-space scavenger a la Cheney.
+----
+Automatically generated from {{com.sun.max.vm.heap.sequential.semiSpace.package-info}}

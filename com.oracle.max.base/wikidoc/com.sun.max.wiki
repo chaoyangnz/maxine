@@ -1,0 +1,5 @@
+{excerpt:hidden=true}DO NOT EDIT: Automatically generated from {{com.sun.max.package-info}}{excerpt}
+{toc}
+Project Maxine software  The top level package contains classes that provide package info manipulation operations.
+----
+Automatically generated from {{com.sun.max.package-info}}
