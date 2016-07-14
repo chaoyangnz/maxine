@@ -75,7 +75,7 @@ const CFNullRef initializeCoreFoundationOnMainThread;
  * A simple launcher.
  */
 int main(int argc, char *argv[] MAIN_EXTRA_ARGS) {
-    char *programPath = PROG_PATH;
+    char *programPath = argv[0]; //PROG_PATH; // It seems Apple changed the arguments
 	char *p = programPath;
     int prefixLength = 0;
     while (*p) {
