@@ -4,4 +4,4 @@
 disable it in makefile
 
 - execv(executable_path=.., ...) failed in maxvm: no such file or directory
-set environment variable DYLD_LIBRARY_PATH to the directory of libjvm.dylib
+see my fix in /Users/riyang/Projects/maxine/com.oracle.max.vm.native/launch/maxvm.c
